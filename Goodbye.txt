@@ -1,3 +1,4 @@
 print ("Goodbye world")
 print ("Goodbye people")
-Print ("Don't forget me. Just feel better")
+Print ("Don't forget me")
+Print ("Just feel better!")
