@@ -1,6 +1,4 @@
 Print ("Hello world!")
 Print ("Hello everybody!")
-Print ("Hello!")
-Print ("Hello guys!")
 Print ("I'm glad to see you!")
 Print ("Hello everybody!")
