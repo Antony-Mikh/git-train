@@ -1,1 +1,2 @@
-Print ("Can you help me? Do it now please!")
+Print ("Can you help me?")
+Print ("Do it now please!")
